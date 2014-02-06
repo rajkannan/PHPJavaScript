@@ -17,7 +17,7 @@ else
 { 
 	$sTable=array_pop($aUrls);
 }
-//$sTable = array_pop($aUrls);
+
 $sSQL = "SELECT * FROM ";
 $sWhere = "";
 $aBinds = array();
