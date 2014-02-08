@@ -1,3 +1,6 @@
+//Part of the code has been provided by Rich Hildred, Profeesor, Conestoga College
+
+
 var SwagRouter = Backbone.Router.extend({
 	oCategoryList : new Backbone.Collection(),
 	oItemList : new Backbone.Collection(),
