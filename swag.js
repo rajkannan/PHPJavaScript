@@ -1,4 +1,4 @@
-//Template been provided by Rich Hildred, Profeesor, Conestoga College
+//Template  provided by Rich Hildred, Profeesor, Conestoga College
 
 
 var SwagRouter = Backbone.Router.extend({
