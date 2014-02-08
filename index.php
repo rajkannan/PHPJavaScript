@@ -1,5 +1,8 @@
 <?php
 
+//template provided by Rich Hildred, Profeesor, Conestoga College
+//Changes have been made to the template- RK
+
 $db = new PDO ( "mysql:host=127.12.***.*** ;dbname=*****, "*******", "*********" ); 
 
 // check if last part of url is numeric
